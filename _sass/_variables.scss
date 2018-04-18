@@ -29,6 +29,6 @@ $georgia: Georgia, serif;
 @mixin embed-font ($pokemon) {
   @pokemon{
     font-family: $pokemon;
-    src: url(font_path('fonts/Pokemon X and Y.ttf') format('truetype');
+    src: url(font_path('fonts/Pokemon X and Y.ttf') format('truetype'));
 }
 }
