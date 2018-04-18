@@ -25,3 +25,10 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
+@mixin embed-font (pokemon) {
+  @pokemon{
+    font-family: $pokemon;
+    src: url(font_path('fonts/Pokemon X and Y.ttf"') format('truetype')
+}
+};
