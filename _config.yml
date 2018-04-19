@@ -87,4 +87,4 @@ exclude:
   
 assets:
   sources:
-    - _assets/fonts
+    - assets/fonts
