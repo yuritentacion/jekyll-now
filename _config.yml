@@ -88,3 +88,6 @@ exclude:
 assets:
   fonts:
     output: true
+
+include:
+  - assets/
