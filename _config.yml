@@ -90,4 +90,4 @@ assets:
     output: true
 
 include:
-  - assets/
+  - assets
