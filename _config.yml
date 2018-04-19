@@ -88,3 +88,4 @@ exclude:
 assets:
   fonts:
     output: true
+    content: false
