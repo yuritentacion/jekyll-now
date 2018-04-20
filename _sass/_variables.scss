@@ -19,6 +19,7 @@ $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 $pokemon: Pokemon;
+$profont: ProFont;
 
 // Mobile breakpoints
 @mixin mobile {
@@ -30,4 +31,9 @@ $pokemon: Pokemon;
 @font-face {
     font-family: "Pokemon";
   src: url('assets/font/Pokemon X and Y.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "ProFont";
+  src: url('assets/font/ProFontWindows.ttf') format('truetype');
 }

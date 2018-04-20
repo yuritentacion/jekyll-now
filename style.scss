@@ -19,8 +19,8 @@ html {
 
 body {
 	background: $white;
-  font: 15px/1.4 $pokemon;
-  color: $darkGray;
+  font: 12px/1.4 $profont;
+  color: $darkerGray;
 }
 
 .container {
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $pokemon;
+  font-family: $profont;
   color: $darkerGray;
   font-weight: bold;
 
@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $darkGray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -151,7 +151,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .masthead {
@@ -194,7 +194,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $pokemon;
+  font-family: $profont;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -213,7 +213,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $pokemon;
+  font-family: $profont;
   font-size: 18px;
 
   @include mobile {

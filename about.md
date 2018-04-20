@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, it's YURITENTACION
 
-### More Information
+My interests includes anime/mango, especially yuri genre.
 
-A place to include any other types of information that you'd like to include about yourself.
+My addiction includes yuri genre.
 
-### Contact me
+Other things I do: Programming, Linux, Computers.
 
-[email@domain.com](mailto:email@domain.com)
+Some games I played: Granblue Fantasy, Bang Dream (JP)
+
+---
+
+links:
+
+- [my pgp key](/pgp.txt)
+
+- [email](mailto:yuritentacion@420blaze.it)
